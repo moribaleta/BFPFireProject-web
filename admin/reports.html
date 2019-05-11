@@ -518,10 +518,6 @@
                 openGenerateReport() {
                     window.open('reports_generate.html', '_self')
                 },
-                sort(header) {
-                    console.log('sort bitch')
-                    w3.sortHTML('#myTable', '.item', 'td:nth-child(' + (header + 1) + ')')
-                },
 
                 fetchLatLong() {
                     let api =

@@ -15,8 +15,6 @@ $password   = $user['password'];
 $rows = mysqli_fetch_assoc($result);
 
 if ($rows['id']){
-    //echo "fuck";//json_encode($rows);
-    //var_dump($rows);
     echo json_encode($rows);
 } else {
     echo "error".mysqli_error($conn);

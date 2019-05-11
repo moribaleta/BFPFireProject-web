@@ -844,12 +844,16 @@
                         return item.RECOMMENDATION.length > 0
                     })
 
-
+                    console.log(predictions)
                     var districts = {}
 
                     predictions.map((item) => {
                         if (districts[item.DISTRICT]) {
                             districts[item.DISTRICT].reports.push(item)
+                            districts[item.DISTRICT].recommendation =[...districts[item.DISTRICT].recommendation, ...item.RECOMMENDATION.filter((recommend) => {
+                                return districts[item.DISTRICT].recommendation.indexOf(recommend) == -1
+                            })]
+                            //districts[item.DISTRICT].recommendation =[...districts[item.DISTRICT].recommendation,...item.RECOMMENDATION] 
                         } else {
                             districts[item.DISTRICT] = {
                                 reports: [item],

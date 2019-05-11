@@ -360,7 +360,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Cigarette', 'Open Flame', 'LPG'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Rubbish']
         },
-        existing: ['Barangay Ugnayan', 'Identify Fire Hydrant and Prone Areas', 'Checking of Fire Equipment', 'Checking of Fire Hazard (low cable, narrow street)', 'Fire Safety Seminar and Drills'  ],
+        existing: ['Barangay Ugnayan', 'Identify Fire Hydrant and Prone Areas', 'Checking of Fire Equipment', 'Checking of Fire Hazard (low cable, narrow street)', 'Fire Safety Seminar and Drills'],
         suggested: ['House to House Campaign of Fire Safety', 'Regular Posting of Contact and Locations of BFP Police, Hospital, and Evacuation', 'Fire Truck Positioning', 'Addtional equipment and fire hydrants']
     },
     Ermita: {
@@ -370,7 +370,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Cigarette', 'Open Flame', 'LPG'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Vehicle']
         },
-        existing: ['Distribution of Safety Flyers', 'Inspection of narrow streets and hydrant', 'Testing and checking of equipment', 'Barangay Ugnayan', 'Fire Safety Seminar and Drills'  ],
+        existing: ['Distribution of Safety Flyers', 'Inspection of narrow streets and hydrant', 'Testing and checking of equipment', 'Barangay Ugnayan', 'Fire Safety Seminar and Drills'],
         suggested: ['Fire awareness campaign quarterly', 'Crowd Management', 'Update of Road information', 'Creation of Brgy Fire Brigade', 'Additional truck, hydrants and other equipment']
     },
     Intramuros: {
@@ -390,7 +390,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Cigarette', 'LPG leak'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential']
         },
-        existing: ['Barangay Ugnayan', 'Distribution of Safety Flyers', 'Testing and checking of equipment', 'Inspection of narrow streets and hydrant', 'Fire Safety Seminar and Drills' ],
+        existing: ['Barangay Ugnayan', 'Distribution of Safety Flyers', 'Testing and checking of equipment', 'Inspection of narrow streets and hydrant', 'Fire Safety Seminar and Drills'],
         suggested: ['Update of Road information', 'Fire awareness campaign quarterly', 'Creation of Brgy Fire Brigade', 'Crowd Management', 'Additional truck, hydrants and other equipment']
     },
     Paco: {
@@ -400,7 +400,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Cigarette', 'Open Flame', 'LPG'],
             ESTABLISHMENT: ['Rubbish', 'Electrical', 'Residential', 'Vehicle']
         },
-        existing: ['Barangay Ugnayan', 'Flyer Distribution', '. Checking of Fire hazzard' ],
+        existing: ['Barangay Ugnayan', 'Flyer Distribution', '. Checking of Fire hazzard'],
         suggested: ['House to House Campaign', 'Coordinate the electrical issue to proper authorities', 'Removal of illegal parking and other obstruction', 'Posting of different location of fire hydrants', 'Reducing the usage of electrical appliances and devices during preparation of lunch and dinner']
     },
     Pandacan: {
@@ -410,7 +410,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Cigarette', 'Aircon'],
             ESTABLISHMENT: ['Rubbish', 'Electrical', 'Residential', 'Vehicle']
         },
-        existing: ['Fire Safety and Disaster Campaign', 'Monitoring of Fire Prone Areas', 'Barangay Ugnayan', '. Identify  alternate route', 'Identify fire hazard, defective hydrant & low cables' ],
+        existing: ['Fire Safety and Disaster Campaign', 'Monitoring of Fire Prone Areas', 'Barangay Ugnayan', '. Identify  alternate route', 'Identify fire hazard, defective hydrant & low cables'],
         suggested: ['Strengthen and Improve Brgy Fire brigdae', 'Regular checking of fire hydrant and other fire fighting equipment', '. Posting of nearest BFP, Police, Hospital, Evacuation', 'Strategic Fire truck Positioning', 'Installation of Fire Warning System']
 
     },
@@ -421,7 +421,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Cigarette'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Vehicle']
         },
-        existing: ['Giving flyers for fire safety tips', 'Barangay Ugnayan', 'identify fire hazard/congested areas', 'checking of road obstructions', 'checking of intertwining electrical and cable wire' ],
+        existing: ['Giving flyers for fire safety tips', 'Barangay Ugnayan', 'identify fire hazard/congested areas', 'checking of road obstructions', 'checking of intertwining electrical and cable wire'],
         suggested: ['Posting of nearest BFP, Police, Hospital, Evacuation', 'House to House Campaign', 'Reducing the usage of electrical appliances and devices during preparation of dinner', 'Creation of Brgy Fire Brigade', 'Implementation of clearing obstruction']
 
     },
@@ -432,7 +432,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Cigarette', 'Open Flame', 'LPG', 'Arson'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Rubbish', 'Recom']
         },
-        existing: ['Barangay Ugnayan', 'Flyers Dissemination to Residents', 'Direct Information of Safety and Emergency Awareness' ],
+        existing: ['Barangay Ugnayan', 'Flyers Dissemination to Residents', 'Direct Information of Safety and Emergency Awareness'],
         suggested: ['Removal of different obstruction on roads and hydrant', 'Compose of Brgy. Fire Bridage', 'Identify access road and alternate route to fire prone areas', 'Posting of contacts and location of BFP, Police, Hospital and Evacuation', 'Reducing the usage of electrical devices during preparation of dinner']
 
     },
@@ -443,7 +443,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Open Flame', 'LPG', 'Cigarette', 'Candle'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Vehicle', 'Rubbish', 'Recom']
         },
-        existing: ['Identify Fire Prone Areas/Fire Hazard', 'Barangay Ugnayan', 'Location of Nearest Fire Hydrant', 'Obstruction of Roads/Street', 'Identify the location of evacuation, hospital, bfp, police' ],
+        existing: ['Identify Fire Prone Areas/Fire Hazard', 'Barangay Ugnayan', 'Location of Nearest Fire Hydrant', 'Obstruction of Roads/Street', 'Identify the location of evacuation, hospital, bfp, police'],
         suggested: ['house to House Campaign of Fire Safety', 'Posting of Fire Safety Tips', 'Frequent Fire Safety Seminar and Drills', 'Brgy. Fire Brigade', 'Strategic Fire Truck Positioning', 'Clearing the obstruction along narrow streets', 'Additional fire hydrants, truck', 'Contact the Meralco for electrical connection issues and MAYNILAD for water resources']
 
     },
@@ -454,7 +454,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Open Flame', 'LPG', 'Cigarette', 'Candle'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Vehicle', 'Rubbish', 'Recom']
         },
-        existing: ['Identify Fire Prone Areas/Fire Hazard', 'Barangay Ugnayan', 'Location of Nearest Fire Hydrant', 'Obstruction of Roads/Street', 'Identify the location of evacuation, hospital, bfp, police' ],
+        existing: ['Identify Fire Prone Areas/Fire Hazard', 'Barangay Ugnayan', 'Location of Nearest Fire Hydrant', 'Obstruction of Roads/Street', 'Identify the location of evacuation, hospital, bfp, police'],
         suggested: ['house to House Campaign of Fire Safety', 'Posting of Fire Safety Tips', 'Frequent Fire Safety Seminar and Drills', 'Brgy. Fire Brigade', 'Strategic Fire Truck Positioning', 'Clearing the obstruction along narrow streets', 'Additional fire hydrants, truck', 'Contact the Meralco for electrical connection issues and MAYNILAD for water resources']
 
     },
@@ -465,8 +465,8 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Candle', 'Cigarette'],
             ESTABLISHMENT: ['Electrical', 'Residential']
         },
-        existing: ['Barangay Ugnayan', 'Firemen Visibility', 'Identify Fire Prone Areas', 'House to House Campaign', 'Distribution of Fire Safety leaflets', 'Fire Hydrant testing and inspection' ],
-        suggested: ['Create Brgy Fire Bridage', 'request of additional fire equipments', 'Reducing the usage of electrical devices during preparation of lunch and dinner', 'Additional fire truck', 'Routing Plan and Clearing of obstruction' ]
+        existing: ['Barangay Ugnayan', 'Firemen Visibility', 'Identify Fire Prone Areas', 'House to House Campaign', 'Distribution of Fire Safety leaflets', 'Fire Hydrant testing and inspection'],
+        suggested: ['Create Brgy Fire Bridage', 'request of additional fire equipments', 'Reducing the usage of electrical devices during preparation of lunch and dinner', 'Additional fire truck', 'Routing Plan and Clearing of obstruction']
 
     },
     'San Miguel': {
@@ -476,7 +476,7 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'LPG', 'Cigarette'],
             ESTABLISHMENT: ['Electrical']
         },
-        existing: ['Barangay Ugnayan', 'House to House Campaign', 'Flyers Dissemination to Residents', 'Direct Information of Safety and Emergency Awareness' ],
+        existing: ['Barangay Ugnayan', 'House to House Campaign', 'Flyers Dissemination to Residents', 'Direct Information of Safety and Emergency Awareness'],
         suggested: ['Clearing of obstruction along roads', 'Additional equipment', 'Reducing the usage of electrical devices during preparation of lunch and dinner', 'Route plan and make secondary exits', ]
 
     },
@@ -487,7 +487,7 @@ var recommendationObject = {
             CAUSES: ['Electrical'],
             ESTABLISHMENT: ['Electrical']
         },
-        existing: ['Barangay Ugnayan', 'House to House Campaign', 'Fire Truck Visibility' ],
+        existing: ['Barangay Ugnayan', 'House to House Campaign', 'Fire Truck Visibility'],
         suggested: ['Posting of Fire Safety Tips', 'Fire Safety Seminar and Drills', 'Brgy. Fire Brigade', 'Working fire fighting equipments', ]
     },
     'Santa Ana': {
@@ -497,8 +497,8 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'LPG Leak', 'Cigarette', 'Candle'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Vehicle', 'Rubbish']
         },
-        existing: ['Barangay ugnayan', 'Firemen Visibility', 'Identify Fire Prone Areas', 'House to House Campaign', 'Distribution of Fire Safety leaflets', 'Fire Hydrant testing and inspection' ],
-        suggested: ['Create Brgy Fire Bridage', 'request of additional fire equipments', 'Reducing the usage of electrical devices during preparation of lunch and dinner', 'Additional fire truck', 'Routing Plan and Clearing of obstruction' ]
+        existing: ['Barangay ugnayan', 'Firemen Visibility', 'Identify Fire Prone Areas', 'House to House Campaign', 'Distribution of Fire Safety leaflets', 'Fire Hydrant testing and inspection'],
+        suggested: ['Create Brgy Fire Bridage', 'request of additional fire equipments', 'Reducing the usage of electrical devices during preparation of lunch and dinner', 'Additional fire truck', 'Routing Plan and Clearing of obstruction']
 
     },
     'Santa Cruz': {
@@ -508,8 +508,8 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Open Flame', 'LPG', 'Cigarette'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Recom', 'Rubbish']
         },
-        existing: ['Distribution of Fire Safety leaflets', 'Inspection Alleys and streets', 'Barangay ugnayan', 'identify fire hazard', 'Fire Truck positioning' ],
-        suggested: ['Reducing the usage of electrical devices during preparation of lunch and dinner', 'Create Brgy Fire Bridage', 'Installation of early warning system', 'Routing plan', 'update Road Information', 'Regular checking of fire fighting equipment' ]
+        existing: ['Distribution of Fire Safety leaflets', 'Inspection Alleys and streets', 'Barangay ugnayan', 'identify fire hazard', 'Fire Truck positioning'],
+        suggested: ['Reducing the usage of electrical devices during preparation of lunch and dinner', 'Create Brgy Fire Bridage', 'Installation of early warning system', 'Routing plan', 'update Road Information', 'Regular checking of fire fighting equipment']
 
     },
     Tondo: {
@@ -519,8 +519,8 @@ var recommendationObject = {
             CAUSES: ['Electrical', 'Under Investigation', 'Open Flame', 'LPG', 'Cigarette'],
             ESTABLISHMENT: ['Commercial', 'Electrical', 'Residential', 'Rubbish', 'Vehicle']
         },
-        existing: ['Barangay ugnayan', 'Conduct of Fire Safety Seminars and Drills', 'Identify and inspection of hydrant', 'Organize Fire Bridage', 'Posting of Fire Safety Tips', 'Identification of Nearest evacuation, hospital and hydrant ' ],
-        suggested: ['Strict Implementation House to House Campaign', 'Checking of Electrical connection with the help of MERALCO', 'Request for additional Fire Hydrant and water source to MAYNILAD', 'Clearing of road obstruction in narrow streets', 'Crowd management', 'Make Secondary exits', 'Additional fire truck and personnel', 'Increase number of fire volunteers and group multipliers' ]
+        existing: ['Barangay ugnayan', 'Conduct of Fire Safety Seminars and Drills', 'Identify and inspection of hydrant', 'Organize Fire Bridage', 'Posting of Fire Safety Tips', 'Identification of Nearest evacuation, hospital and hydrant '],
+        suggested: ['Strict Implementation House to House Campaign', 'Checking of Electrical connection with the help of MERALCO', 'Request for additional Fire Hydrant and water source to MAYNILAD', 'Clearing of road obstruction in narrow streets', 'Crowd management', 'Make Secondary exits', 'Additional fire truck and personnel', 'Increase number of fire volunteers and group multipliers']
 
     },
 
@@ -551,9 +551,25 @@ function getRecommendation(report) {
             }
         })
 
+        let suggested = ""
+        switch (report.ALERT_LEVEL) {
+            case '1st Alarm':
+                suggested = district_data.suggested[0]
+                break
+            case '2nd Alarm':
+                suggested = district_data.suggested[1]
+                break
+            case '3rd Alarm':
+                suggested = district_data.suggested[2]
+                break
+            default:
+                suggested = district_data.suggested[3]
+
+        }
+
         if (pass >= 3) {
             return {
-                suggested: district_data.suggested,
+                suggested: [suggested],
                 existing: district_data.existing
             }
         }
